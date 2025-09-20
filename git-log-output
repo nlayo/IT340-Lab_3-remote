@@ -1,0 +1,31 @@
+commit 81e46b12d5b634686259d2db9cff3fe45ddcaeb8
+Author: Nicole <npl@njit.edu>
+Date:   Sat Sep 20 18:47:16 2025 -0400
+
+    Revert "added notes.txt with an echo text"
+    
+    This reverts commit 3e45b9cb16f39fc9b79cfa32bf2a01a03ed1000e.
+
+commit 3e45b9cb16f39fc9b79cfa32bf2a01a03ed1000e
+Author: Nicole <npl@njit.edu>
+Date:   Sat Sep 20 18:44:47 2025 -0400
+
+    added notes.txt with an echo text
+
+commit ef1c5dfe92c3bb05eeac5e404b9bb0b016d48f9a
+Author: Nicole <npl@njit.edu>
+Date:   Sat Sep 20 18:43:19 2025 -0400
+
+    Edited hostname with a custom message
+
+commit 27905ec3d8b3bd2736ff040b588377797bdfb85e
+Author: Nicole <npl@njit.edu>
+Date:   Sat Sep 20 18:32:44 2025 -0400
+
+    initial lab 3 experimental test
+
+commit 055d699877f9b8074f2dde8a5b1b63de07cef855
+Author: Nicole <npl@njit.edu>
+Date:   Sat Sep 20 18:17:03 2025 -0400
+
+    Initial Starting Point of Repo
